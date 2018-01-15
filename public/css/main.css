@@ -1,0 +1,22 @@
+body {
+    background: rgb(255, 102, 0);
+    text-align: center;
+    align-content: center;
+}
+
+p {
+
+}
+
+.area {
+    border-color: black;
+    border-style: solid;
+    padding: 2rem;
+}
+
+
+.post {
+    border-color: black;
+    border-style: solid;
+    border-spacing: 20px;
+}
